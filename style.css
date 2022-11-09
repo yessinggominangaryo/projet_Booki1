@@ -1,0 +1,191 @@
+body 
+h1{
+	color: blue;
+}
+
+{
+	font-family:Arial, Helvetica, sans-serif
+}
+
+#corps {
+	
+	padding: 5% 5% 5% 5%;
+
+}
+
+header {
+	clear: both;
+}
+label
+{
+	background-color: rgb(60, 159, 250);
+	font-weight: bold;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	padding: 5px;
+}
+#recherche
+{
+	margin-bottom: 30px;
+	display: flex;
+}
+#info
+{
+	display: flex;
+	align-items: center;
+}
+#filtre {
+	display: flex;
+	color: hsl(120, 2%, 91%);
+	justify-content: center;
+}
+
+.fi {
+	font-weight: bold;
+	padding-top: 10px;
+}
+.icone{
+	background-color: skyblue;
+	float: left;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	margin-left: 0%;
+}
+
+.fil {
+	border: 1px solid skyblue;
+	padding-left: 1px;
+	padding-right: 15px;
+	padding-top: 0%;
+	padding-bottom: 5px;
+	margin: auto;
+	border-radius: 20px;
+	font-weight: bold;
+
+}
+
+h1 {
+	font-family: 'Satisfy', cursive;
+}
+
+section {
+	display: flex;
+	justify-content: space-between;
+    border-radius: 10px 10px 10px 10px;
+	padding: 15px 15px 15px 15px;
+
+
+}
+
+#populaire {
+	background-color: rgb(218, 226, 231);
+	border-radius: 10px 10px 10px 10px;
+	padding: 15px 15px 15px 15px;
+	font-size: 12px;
+
+}
+.nomhotel
+{
+	font-weight: bold;
+}
+.imagepop
+	 {
+		border-top-left-radius: 10px;
+		border-bottom-left-radius: 10px;
+		border-top-right-radius: 0px;
+		height: 2.5cm;
+		width: 2cm;
+	}
+	#premier{
+		width: 100%;
+	}
+
+
+#hebergement {
+	display: flex;
+	flex-direction: column;
+	background-color: rgb(218, 226, 231);
+	justify-content: space-between;
+	border-radius: 10px 10px 10px 10px;
+	padding: 15px 15px 15px 15px;
+	margin-right: 20%;
+	font-size: 12px;
+	width: justify;
+}
+.photo2{
+	display: flex;
+	margin: 5px;
+	padding: 15px 15px 15px 15px;
+}
+
+.heb {
+	background-color: white;
+	border-radius: 10px 10px 10px 10px;
+	padding: 0,5%;
+	
+}
+
+.pop {
+	display: flex;
+	background-color: white;
+	border-radius: 10px 10px 10px 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+	justify-content: space-between;
+	padding-right: 6px;
+	
+}
+
+#activite {
+	display: flex;
+	justify-content: space-between;
+	border-radius: 10px 10px 10px 10px;
+	padding: 15px 15px 15px 15px;
+	max-width: 100%;
+	background-color: aquarine;
+	/*	margin-left: 110px;
+	margin-right:80px;*/
+	margin: auto;
+	font-weight: bold;
+}
+
+h1 {
+	clear: both;
+}
+
+
+#conteneur {
+	background-color: rgb(226, 226, 226);
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 100px;
+	clear: both;
+	margin-top: 30px;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+
+}
+
+img {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+#entete {
+	display: flex;
+	justify-content: space-between;
+
+
+}
+
+#enteted {
+
+	justify-content: space-around;
+	text-decoration: overline;
+
+}
